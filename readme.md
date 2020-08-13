@@ -1,5 +1,16 @@
 # GPU Detect
 
+## 개인 Comment
+
+* DirectX를 이용한 현재 PC에 설치된 GPU 장비 목록 출력
+
+### Todo
+
+- [ ] Visual Studio 2017버전으로 업데이트
+- [ ] Encode 가능 여부 확인 코드 
+
+---
+
 ## Overview
 This short sample demonstrates a way to detect the primary graphics hardware present in a system, and to initialize a game's default fidelity presets based on the found graphics device. The code and accompanying data is meant to be used as a guideline, and should be adapted to the game's specific needs. The sample is specific to Microsoft Windows although some of the information will be applicable on other operating systems.
 
